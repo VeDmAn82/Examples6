@@ -1,4 +1,4 @@
-﻿// Задача 48.
+﻿// Задача 48. Задать двумерный массив m на n, каждый элемент находится по формуле A[i,j] = i + j. Вывести на экран.
 
 // Console.WriteLine("Введите размерность m");
 // bool isNumber1 = int.TryParse(Console.ReadLine(), out int m);
